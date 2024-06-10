@@ -1,0 +1,4 @@
+/* This is to make callout tables read better*/
+th:empty {
+    display: none;
+}

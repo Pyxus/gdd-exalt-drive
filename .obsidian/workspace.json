@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "66b4ef195382de46",
+    "type": "split",
+    "children": [
+      {
+        "id": "74abeb67a8d67b50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72ab45ec2fdc6e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Game Design/%Browse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e9433c71f448b2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "acbf53966541f407",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76d62ddcc1c8bdda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "805e914045ad38db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "progress",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab490ee8e9b22342",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5
+  },
+  "right": {
+    "id": "691ae94e30d3345a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0aa214435d92eb0",
+        "type": "tabs",
+        "dimension": 67.23809523809524,
+        "children": [
+          {
+            "id": "89638f36002a7cea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Game Design/%Browse.md"
+              }
+            }
+          },
+          {
+            "id": "65020e4aa39719ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "96f68a6a3662f757",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c9f6f9a2ffb09453",
+        "type": "tabs",
+        "dimension": 32.761904761904766,
+        "children": [
+          {
+            "id": "e338b031eacd5efc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Game Design/%Browse.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3dcff20757ab8ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Game Design/%Browse.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "72ab45ec2fdc6e7d",
+  "lastOpenFiles": [
+    "1. Game Design/Gameplay/Characters/@Characters.md",
+    "1. Game Design/%Browse.md",
+    "1. Game Design/Gameplay/Cards/@Cards.md",
+    "1. Game Design/Proposal.md",
+    "1. Game Design/Brainstorm.md",
+    "2. Technical/Network Architecture.md",
+    "misc/Data view Snippets.md",
+    "3. Research/Exceed Fighting System Mechanics.md",
+    "1. Game Design/Gameplay/Mechanics/@Mechanics.md",
+    "1. Game Design/Gameplay/Characters/Lemon-Tea Olive.md",
+    "1. Game Design/Gameplay/Characters/Ximena.md",
+    "1. Game Design/Gameplay/Characters/Manami Mikoto.md",
+    "misc/Templates/Character Wiki  Page.md",
+    "misc/Attachments/Char_Manami_Portrait.png",
+    "%Quick Access/Hub.md",
+    "archive/P2P Networking (Old).md",
+    "1. Game Design/Gameplay/Mechanics/Cross up.md",
+    "1. Game Design/Gameplay/Mechanics/Concentrated Clash.md",
+    "1. Game Design/Gameplay/Mechanics/Composure Break.md",
+    "1. Game Design/Gameplay/Mechanics/Clash.md",
+    "1. Game Design/Gameplay/Mechanics/Battle.md",
+    "1. Game Design/Gameplay/Mechanics/Actions.md",
+    "1. Game Design/Gameplay/Mechanics/Resources.md",
+    "1. Game Design/Gameplay/Mechanics/Desperate Attack.md",
+    "1. Game Design/Gameplay/Mechanics/Actions/Move.md",
+    "1. Game Design/Gameplay/Mechanics/Actions/Draw.md",
+    "%Quick Access/Log/2024-4-21.md",
+    "1. Game Design/Gameplay/Mechanics/Actions",
+    "1. Game Design/Art/References.canvas",
+    "archive",
+    "misc/Attachments/Char_Lemon_Portrait.webp",
+    "misc/Attachments/Char_Ximena_Portrait.webp",
+    "_/Attachments/Pasted image 20240609030456.png",
+    "1. Game Design/Gameplay/Cards",
+    "1. Game Design/Gameplay/Characters",
+    "1. Game Design/Gameplay/Mechanics",
+    "2. Technical",
+    "!Research",
+    "Untitled.canvas",
+    "_/Attachments/dg5w3de-f1cfdbd3-ed85-46bf-844a-8b5747b6ecd6.png",
+    "_/Attachments/Alter-Strife_twitter_@SadKeyboardGuy.png",
+    "_/Attachments/3-5-23_@nemuiZZZxN.jpg",
+    "_/Attachments/2-18-24_@nemuiZZZxN.jpg",
+    "Excalidraw",
+    "1. Game Design/Untitled.canvas",
+    "3. Misc/Duck Thoughts",
+    "Resources/Resources",
+    "1. Game Design/Art/Art Board.canvas",
+    "_/Attachments/Pasted image 20240406151034.png",
+    "_/Attachments/Pasted image 20240406151017.png",
+    "_/Attachments/cassette-beasts.canvas",
+    "Design Doc/Gameplay/Untitled.canvas"
+  ]
+}

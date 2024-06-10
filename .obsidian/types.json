@@ -1,0 +1,22 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "title": "text",
+    "Age": "number",
+    "updated": "datetime",
+    "date-created": "date",
+    "role": "text",
+    "race": "text",
+    "categories": "multitext",
+    "user(s)": "multitext",
+    "alias": "multitext",
+    "alias-name": "multitext",
+    "archetype": "multitext",
+    "health": "number",
+    "composure": "number",
+    "category": "multitext",
+    "act-cost": "number"
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"9bb1ebbb68717743","type":"link","url":"https://www.youtube.com/watch?v=1Rpofeik35Q","x":-320,"y":-180,"width":640,"height":360},
+		{"id":"3667c3bb9f2d9d09","x":400,"y":-180,"width":766,"height":638,"type":"link","url":"https://x.com/bar0sa/status/1680198488926158849/video/1"}
+	],
+	"edges":[]
+}
